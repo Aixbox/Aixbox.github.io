@@ -1,0 +1,1 @@
+var posts=["2024/06/12/npm图床 + github actions + picgo + imagine/","2024/06/12/多个github账号使用ssh/","2024/06/08/建站参考文章、博客/","2024/06/12/轻量级请求策略库alova/"];function toRandomPost(){pjax.loadUrl("/"+posts[Math.floor(Math.random()*posts.length)])}
