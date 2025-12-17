@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Aixbox</title>
+  
+  <subtitle>分享我的经历</subtitle>
+  <link href="http://www.aixbox.top/atom.xml" rel="self"/>
+  
+  <link href="http://www.aixbox.top/"/>
+  <updated>2025-12-17T02:51:34.003Z</updated>
+  <id>http://www.aixbox.top/</id>
+  
+  <author>
+    <name>Aixbox</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>图片代理，突破防盗链</title>
+    <link href="http://www.aixbox.top/2025/12/01/%E5%9B%BE%E7%89%87%E4%BB%A3%E7%90%86/"/>
+    <id>http://www.aixbox.top/2025/12/01/%E5%9B%BE%E7%89%87%E4%BB%A3%E7%90%86/</id>
+    <published>2025-12-01T16:00:00.000Z</published>
+    <updated>2025-12-17T02:51:34.003Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在我们写博客的时候常会引用其他网站的图片等资源，但是此时会有防盗链，在我们的网站无法正常显示图片，这时就需要图片代理了。&lt;/p&gt;
+&lt;p&gt;基于 &lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>订阅处理</title>
+    <link href="http://www.aixbox.top/2025/12/01/%E8%AE%A2%E9%98%85%E5%A4%84%E7%90%86/"/>
+    <id>http://www.aixbox.top/2025/12/01/%E8%AE%A2%E9%98%85%E5%A4%84%E7%90%86/</id>
+    <published>2025-12-01T16:00:00.000Z</published>
+    <updated>2025-12-17T02:51:34.003Z</updated>
+    
+    
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>WebSocket使用-Springboot</title>
+    <link href="http://www.aixbox.top/2024/07/20/WebSocket%E4%BD%BF%E7%94%A8-Springboot/"/>
+    <id>http://www.aixbox.top/2024/07/20/WebSocket%E4%BD%BF%E7%94%A8-Springboot/</id>
+    <published>2024-07-20T15:30:00.000Z</published>
+    <updated>2025-12-17T02:51:34.002Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;本文websocket使用netty实现，原因：因为netty提供有心跳组件，方便实现心跳检测&lt;/p&gt;
+&lt;h2 id=&quot;一、添加依赖&quot;&gt;&lt;a href=&quot;#一、添加依赖&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="WebSocket" scheme="http://www.aixbox.top/categories/WebSocket/"/>
+    
+    <category term="长连接" scheme="http://www.aixbox.top/categories/WebSocket/%E9%95%BF%E8%BF%9E%E6%8E%A5/"/>
+    
+    
+    <category term="后端" scheme="http://www.aixbox.top/tags/%E5%90%8E%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hutool验证码使用</title>
+    <link href="http://www.aixbox.top/2024/07/10/hutool%E9%AA%8C%E8%AF%81%E7%A0%81%E4%BD%BF%E7%94%A8/"/>
+    <id>http://www.aixbox.top/2024/07/10/hutool%E9%AA%8C%E8%AF%81%E7%A0%81%E4%BD%BF%E7%94%A8/</id>
+    <published>2024-07-10T15:30:00.000Z</published>
+    <updated>2025-12-17T02:51:34.002Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;使用hutool + redis实现登录场景的验证&lt;/p&gt;
+&lt;h2 id=&quot;验证码控制器&quot;&gt;&lt;a href=&quot;#验证码控制器&quot; class=&quot;headerlink&quot; title=&quot;验证码控制器&quot;&gt;&lt;/a&gt;验证码控制器&lt;/h2&gt;&lt;figure class=&quot;highlight</summary>
+        
+      
+    
+    
+    
+    <category term="后端" scheme="http://www.aixbox.top/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+    
+    <category term="后端" scheme="http://www.aixbox.top/tags/%E5%90%8E%E7%AB%AF/"/>
+    
+    <category term="hutool" scheme="http://www.aixbox.top/tags/hutool/"/>
+    
+    <category term="验证码" scheme="http://www.aixbox.top/tags/%E9%AA%8C%E8%AF%81%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vite项目使用docker部署</title>
+    <link href="http://www.aixbox.top/2024/07/06/Vite%E9%A1%B9%E7%9B%AE%E4%BD%BF%E7%94%A8docker%E9%83%A8%E7%BD%B2/"/>
+    <id>http://www.aixbox.top/2024/07/06/Vite%E9%A1%B9%E7%9B%AE%E4%BD%BF%E7%94%A8docker%E9%83%A8%E7%BD%B2/</id>
+    <published>2024-07-06T15:30:00.000Z</published>
+    <updated>2025-12-17T02:51:34.002Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-修改生产环境配置&quot;&gt;&lt;a href=&quot;#1-修改生产环境配置&quot; class=&quot;headerlink&quot; title=&quot;1.修改生产环境配置&quot;&gt;&lt;/a&gt;1.修改生产环境配置&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;修改生产环境的配置，可以在项目中使用</summary>
+        
+      
+    
+    
+    
+    <category term="部署" scheme="http://www.aixbox.top/categories/%E9%83%A8%E7%BD%B2/"/>
+    
+    
+    <category term="docker" scheme="http://www.aixbox.top/tags/docker/"/>
+    
+    <category term="部署" scheme="http://www.aixbox.top/tags/%E9%83%A8%E7%BD%B2/"/>
+    
+    <category term="vite" scheme="http://www.aixbox.top/tags/vite/"/>
+    
+    <category term="前端" scheme="http://www.aixbox.top/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringBoot项目docker部署</title>
+    <link href="http://www.aixbox.top/2024/07/05/SpringBoot%E9%A1%B9%E7%9B%AEdocker%E9%83%A8%E7%BD%B2/"/>
+    <id>http://www.aixbox.top/2024/07/05/SpringBoot%E9%A1%B9%E7%9B%AEdocker%E9%83%A8%E7%BD%B2/</id>
+    <published>2024-07-05T15:30:00.000Z</published>
+    <updated>2025-12-17T02:51:34.002Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-检查pom文件&quot;&gt;&lt;a href=&quot;#1-检查pom文件&quot; class=&quot;headerlink&quot; title=&quot;1.检查pom文件&quot;&gt;&lt;/a&gt;1.检查pom文件&lt;/h2&gt;&lt;p&gt;在pom文件要有&lt;/p&gt;
+&lt;figure class=&quot;highlight</summary>
+        
+      
+    
+    
+    
+    <category term="部署" scheme="http://www.aixbox.top/categories/%E9%83%A8%E7%BD%B2/"/>
+    
+    
+    <category term="后端" scheme="http://www.aixbox.top/tags/%E5%90%8E%E7%AB%AF/"/>
+    
+    <category term="docker" scheme="http://www.aixbox.top/tags/docker/"/>
+    
+    <category term="部署" scheme="http://www.aixbox.top/tags/%E9%83%A8%E7%BD%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>反向代理+域名实现去除端口号</title>
+    <link href="http://www.aixbox.top/2024/07/05/%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E3%80%81%E5%9F%9F%E5%90%8D%E5%AE%9E%E7%8E%B0%E5%8E%BB%E9%99%A4%E7%AB%AF%E5%8F%A3%E5%8F%B7/"/>
+    <id>http://www.aixbox.top/2024/07/05/%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E3%80%81%E5%9F%9F%E5%90%8D%E5%AE%9E%E7%8E%B0%E5%8E%BB%E9%99%A4%E7%AB%AF%E5%8F%A3%E5%8F%B7/</id>
+    <published>2024-07-05T15:30:00.000Z</published>
+    <updated>2025-12-17T02:51:34.003Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-安装运维面板&quot;&gt;&lt;a href=&quot;#1-安装运维面板&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="部署" scheme="http://www.aixbox.top/categories/%E9%83%A8%E7%BD%B2/"/>
+    
+    
+    <category term="反向代理" scheme="http://www.aixbox.top/tags/%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86/"/>
+    
+    <category term="域名" scheme="http://www.aixbox.top/tags/%E5%9F%9F%E5%90%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>多个github账号使用ssh</title>
+    <link href="http://www.aixbox.top/2024/06/12/%E5%A4%9A%E4%B8%AAgithub%E8%B4%A6%E5%8F%B7%E4%BD%BF%E7%94%A8ssh/"/>
+    <id>http://www.aixbox.top/2024/06/12/%E5%A4%9A%E4%B8%AAgithub%E8%B4%A6%E5%8F%B7%E4%BD%BF%E7%94%A8ssh/</id>
+    <published>2024-06-12T15:30:00.000Z</published>
+    <updated>2025-12-17T02:51:34.003Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;需求&quot;&gt;&lt;a href=&quot;#需求&quot; class=&quot;headerlink&quot; title=&quot;需求&quot;&gt;&lt;/a&gt;需求&lt;/h2&gt;&lt;p&gt;多个github账号需要使用ssh&lt;/p&gt;
+&lt;h2 id=&quot;解决方法&quot;&gt;&lt;a href=&quot;#解决方法&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="http://www.aixbox.top/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="ssh" scheme="http://www.aixbox.top/tags/ssh/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>npm图床+githubActions+picgo+imagine</title>
+    <link href="http://www.aixbox.top/2024/06/12/npm%E5%9B%BE%E5%BA%8A%E3%80%81githubActions%E3%80%81picgo%E3%80%81imagine/"/>
+    <id>http://www.aixbox.top/2024/06/12/npm%E5%9B%BE%E5%BA%8A%E3%80%81githubActions%E3%80%81picgo%E3%80%81imagine/</id>
+    <published>2024-06-12T15:30:00.000Z</published>
+    <updated>2025-12-17T02:51:34.003Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-创建仓库并克隆&quot;&gt;&lt;a href=&quot;#1-创建仓库并克隆&quot; class=&quot;headerlink&quot; title=&quot;1.创建仓库并克隆&quot;&gt;&lt;/a&gt;1.创建仓库并克隆&lt;/h2&gt;&lt;h3 id=&quot;1-1创建仓库&quot;&gt;&lt;a href=&quot;#1-1创建仓库&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="http://www.aixbox.top/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="图床" scheme="http://www.aixbox.top/tags/%E5%9B%BE%E5%BA%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>alova请求库携带cookie的方式</title>
+    <link href="http://www.aixbox.top/2024/06/12/%E8%BD%BB%E9%87%8F%E7%BA%A7%E8%AF%B7%E6%B1%82%E7%AD%96%E7%95%A5%E5%BA%93alova/"/>
+    <id>http://www.aixbox.top/2024/06/12/%E8%BD%BB%E9%87%8F%E7%BA%A7%E8%AF%B7%E6%B1%82%E7%AD%96%E7%95%A5%E5%BA%93alova/</id>
+    <published>2024-06-12T15:30:00.000Z</published>
+    <updated>2025-12-17T02:51:34.003Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;1.首先写一个request.ts&lt;/p&gt;
+&lt;p&gt;2.在请求拦截器配置&lt;code&gt;config.credentials = &amp;#39;include&amp;#39;&lt;/code&gt;，这样就可以携带cookie了&lt;/p&gt;
+&lt;p&gt;示例代码：&lt;/p&gt;
+&lt;figure class=&quot;highlight</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="http://www.aixbox.top/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="前端" scheme="http://www.aixbox.top/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="js" scheme="http://www.aixbox.top/tags/js/"/>
+    
+    <category term="请求库" scheme="http://www.aixbox.top/tags/%E8%AF%B7%E6%B1%82%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>建站参考文章、博客</title>
+    <link href="http://www.aixbox.top/2024/06/08/%E5%BB%BA%E7%AB%99%E5%8F%82%E8%80%83%E6%96%87%E7%AB%A0%E3%80%81%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://www.aixbox.top/2024/06/08/%E5%BB%BA%E7%AB%99%E5%8F%82%E8%80%83%E6%96%87%E7%AB%A0%E3%80%81%E5%8D%9A%E5%AE%A2/</id>
+    <published>2024-06-08T03:54:00.000Z</published>
+    <updated>2025-12-17T02:51:34.003Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;建站参考文章&quot;&gt;&lt;a href=&quot;#建站参考文章&quot; class=&quot;headerlink&quot; title=&quot;建站参考文章&quot;&gt;&lt;/a&gt;建站参考文章&lt;/h2&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="网站搭建" scheme="http://www.aixbox.top/categories/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
+    
+    
+    <category term="网站搭建" scheme="http://www.aixbox.top/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
+    
+    <category term="推荐博客" scheme="http://www.aixbox.top/tags/%E6%8E%A8%E8%8D%90%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="实用文章" scheme="http://www.aixbox.top/tags/%E5%AE%9E%E7%94%A8%E6%96%87%E7%AB%A0/"/>
+    
+  </entry>
+  
+</feed>
